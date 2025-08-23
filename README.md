@@ -1,2 +1,0 @@
-# JSProjectsFreeCodeCamp
-Vanilla JS projects
